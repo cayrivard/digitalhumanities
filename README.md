@@ -1,6 +1,6 @@
 # Cay Rivard's Digital Humanities Repository
 
-![Image of Digital Humanities](http://www.digitalmeetsculture.net/wp-content/uploads/2015/02/Digital-Humanities.jpg)
+![Image of Digital Humanities](https://americanlibrariesmagazine.org/wp-content/uploads/2015/12/0116-digital-humanities.jpg)
 
 ## Short Biography
 
@@ -8,7 +8,7 @@ I am currently pursuing a Master of Arts in Italian Studies at McGill as I compl
 
 ## My Research Project
 
-For my dissertation...
+The project I intend to commence during my Italian M.A. and expand into an eventual Ph.D. dissertation is an examination of the Italian texts most translated into English and in circulation in England during the Renaissance period. These three texts are Boccaccio's *Decameron*, Matteo Bandello's *Novelle*, and Giraldi Cinthio's *Hecatommithi*. By comparing the English translations of these texts to their Italian originals, I hope to demonstrate that there is a similar dynamic between a translated text and its original and literary allusion, insofar as both types of engagement with a source text result in a reinscription of the original which reveals English responses to and tensions with Italian intellectual and literary influence.
 
 ## My Objectives
 
