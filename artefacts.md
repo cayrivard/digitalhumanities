@@ -22,7 +22,7 @@
 
 ### Juxta
 ![Screenshot of Juxta logo](https://user-images.githubusercontent.com/31863169/31359297-606dc73a-ad17-11e7-8963-43fcf3b6892b.jpg)
-> Detail from screenshot of the Juxta website home page
+> Detail from contributor screenshot of the Juxta website home page
 * Artefact Type: free open-source text comparator tool
 * Source URL: http://www.juxtasoftware.org/
 * Permissions: Licensed by ARP under the Creative Commons
