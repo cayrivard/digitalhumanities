@@ -31,5 +31,9 @@
 
 Available as both a web service and a standalone desktop application, Juxta enables users to compare and collate multiple versions of a written text. The software was originally designed to help scholars and editors trace the history of a given text, though it can be used for any number of comparative textual scholarship purposes. Users begin by creating a comparison set of textual witnesses and choosing a base text for collation; the base text can be changed at will, and users can add or remove textual witnesses from a comparison set as needed, allowing users significant flexibility to tailor the collation to answer specific inquiries. Once collated, the comparative data generated can be analytically visualized in several different ways. The default display of results is a heat map of all textual variants, although other options include side-by-side collation of the base text and one witness as well as a histogram of Juxta collations that displays the density of all variation from the base text, allowing for the efficient localization of passages with substantial levels of variation. The more complete desktop version (compatible with Mac, Windows, and Unix as long as Java 1.5 is installed) also allows users to annotate specific comparisons and save the results of a given collation.
 
-## Works Cited
+## References
 (include all references from above entries, including artefacts themselves)
+
+"About." *Juxta*, www.juxtasoftware.org/about/. Accessed 9 October 2017.
+
+"Juxta." *TAPoR 3*, 17 October 2012, tapor.ca/tools/172. Accessed 9 October 2017.
