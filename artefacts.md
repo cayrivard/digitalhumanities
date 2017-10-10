@@ -18,9 +18,9 @@ Building on recent work in the digital humanities such as the Viral Texts projec
 * Source URL: https://dh2017.adho.org/program/abstracts/
 * Permissions: CC-BY 4.0
 * Creators: Adam Hammond (University of Toronto), Julian Brooke (University of Melbourne)
-* Tags: (getting started/advanced; tool used)
+* Tags: Project Gutenburg; NLP; computational literary analysis; reproducible data
 
-(insert 150 word annotation)
+Designed by literary scholars Julian Brooke and Adam Hammond for literary scholars, GutenTag is an open-source standalone software tool for non-programmers, allowing digital humanists and computational linguists to search the corpora of Project Gutenberg USA, Canada, and Australia to perform large-scale literary analyses as well as to reproduce studies performed by other researchers. Users can build customized corpora to which they apply the research parameters of their specific inquiry to effect large-scale literary analyses examining thousands of texts at once. The research parameters can then be saved and remain available to other researchers.
 
 ### *Juxta*
 ![Screenshot of Juxta logo](https://user-images.githubusercontent.com/31863169/31359297-606dc73a-ad17-11e7-8963-43fcf3b6892b.jpg)
